@@ -26,3 +26,8 @@ Teacher explanind that the transformer architechture do not process a phrase in 
 # How the models process the prompts?
 
 When you provide a prompt to a language model it converts the text in a token sequence, that are a basic unit that can be a word, oarts of words or characters.
+
+
+# OpenAI "Tokenizer" tool
+
+[This tool](https://platform.openai.com/tokenizer) was used by the teacher to exemplify the tokenization process.
