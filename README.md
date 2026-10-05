@@ -30,4 +30,4 @@ When you provide a prompt to a language model it converts the text in a token se
 
 # OpenAI "Tokenizer" tool
 
-[This tool](https://platform.openai.com/tokenizer) was used by the teacher to exemplify the tokenization process.
+[This tool](https://platform.openai.com/tokenizer) was used by the teacher to exemplify the tokenization process. **OBS:** the part of the word considered to build each token vary depend on the used model, as you can see using the tool.
