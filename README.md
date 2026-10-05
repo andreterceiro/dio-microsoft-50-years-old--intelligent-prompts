@@ -34,4 +34,6 @@ When you provide a prompt to a language model it converts the text in a token se
 
 After, the tokens are converted in "embeddings", that are vectorial representations that capture their meaning.
 
-Then these embeddings passes in neural networks with transformers and the model apply theses operations (I did not understood "what operations") to understand the conext. Then the model generates a probabilities distribution to try to predict the next token.  
+Then these embeddings passes in neural networks with transformers and the model apply theses operations (I did not understood "what operations") to understand the conext. Then the model generates a probabilities distribution to try to predict the next token.
+
+Then this process of predict the next token is repeated until the sequence is generated.
