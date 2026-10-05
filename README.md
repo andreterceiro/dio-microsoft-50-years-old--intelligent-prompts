@@ -21,3 +21,8 @@ The name of the article is "[Attention is all we need](https://proceedings.neuri
 # Random comments
 
 Teacher explanind that the transformer architechture do not process a phrase in a linear sequence. It tries to discovery informations of each word in the text in other parts of the text. Teacher described this part as how "transformer attention mechanism" destak relevant parts to the context, resulting in an analysis more precise and quick.
+
+
+# How the models process the prompts?
+
+When you provide a prompt to a language model it converts the text in a token sequence, that are a basic unit that can be a word, oarts of words or characters.
