@@ -57,3 +57,4 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 # Components of a good prompt
 
 - Clear instructions;
+- Adequate context;
