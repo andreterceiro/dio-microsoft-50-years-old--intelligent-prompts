@@ -37,3 +37,8 @@ After, the tokens are converted in "embeddings", that are vectorial representati
 Then these embeddings passes in neural networks with transformers and the model apply theses operations (I did not understood "what operations") to understand the conext. Then the model generates a probabilities distribution to try to predict the next token.
 
 Then this process of predict the next token is repeated until the sequence is generated.
+
+
+# Context window
+
+Teacher explained that the model can remember what was said previously **in the same window** through the window context, that is the limit of tokens that the model can process simultaneously.
