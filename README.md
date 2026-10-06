@@ -59,3 +59,4 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 - Clear instructions;
 - Adequate context;
 - Examples;
+- Input data (informations ou a specifc problem that you waana that the model process our solve). It can be a question or a text;
