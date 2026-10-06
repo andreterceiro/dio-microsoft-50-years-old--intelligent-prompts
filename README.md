@@ -73,3 +73,5 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 # Examples of good prompts
 
 ![example 1 of a good prompt](images/example-1-of-a-good-prompt.png)
+
+![example 2 of a good prompt](images/example-2-of-a-good-prompt.png)
