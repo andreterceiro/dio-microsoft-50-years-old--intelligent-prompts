@@ -60,3 +60,4 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 - Adequate context;
 - Examples;
 - Input data (informations ou a specifc problem that you waana that the model process our solve). It can be a question or a text. In the teacher example of asking the model help to create a RPG history they are the warriors details and the villan details;
+- Output format. Example: number of paragraphs, that the answer can be done using bullets points as format, json, markdown etc.
