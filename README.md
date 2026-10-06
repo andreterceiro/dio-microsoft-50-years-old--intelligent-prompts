@@ -66,3 +66,5 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 # Microsoft Copilot notebooks
 
 [Microsoft Copilot](https://copilot.cloud.microsoft/) has the concept of the notebooks, that is similar to a folder to store chatbots conversations with a similar context.
+
+![Microsof Copilot Notebooks](images/microsoft-copilot-notebooks.png)
