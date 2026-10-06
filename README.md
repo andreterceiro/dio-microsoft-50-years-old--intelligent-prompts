@@ -58,3 +58,4 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 
 - Clear instructions;
 - Adequate context;
+- Examples;
