@@ -52,3 +52,8 @@ Teacher explained that the model can remember what was said previously **in the 
 # Alternatives
 
 Teacher said that im ChatGPT, as example, we have options as memory and personalized instructions that allow the LLM to store informations between the chats of follow some guidelines defined by you.
+
+
+# Components of a good prompt
+
+- Clear instructions;
