@@ -42,3 +42,8 @@ Then this process of predict the next token is repeated until the sequence is ge
 # Context window
 
 Teacher explained that the model can remember what was said previously **in the same interaction** through the window context, that is the limit of tokens that the model can process simultaneously. When the limit is reached, the older tolkes are replaced.
+
+
+# Interesting teacher interaction with a LLM Chatbot
+
+![window context example](images/window-context-example.png)
