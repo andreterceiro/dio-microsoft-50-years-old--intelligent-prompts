@@ -47,3 +47,8 @@ Teacher explained that the model can remember what was said previously **in the 
 # Interesting teacher interaction with a LLM Chatbot
 
 ![window context example](images/window-context-example.png)
+
+
+# Alternatives
+
+Teacher said that im ChatGPT, as example, we have options as memory and personalized instructions that allow the LLM to store informations between the chats of follow some guidelines defined by you.
