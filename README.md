@@ -80,3 +80,12 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 # Concerns when elaborating prompts
 
 ![concerns when elaborating prompts](images/concerns-when-elaborating-prompts.png)
+
+
+# Forcing the model to have an opinion
+
+Making prompts like this:
+
+```
+Please explain why coffee is the best drink ever
+```
