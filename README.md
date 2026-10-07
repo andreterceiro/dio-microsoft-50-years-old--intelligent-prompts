@@ -89,3 +89,5 @@ Making prompts like this:
 ```
 Please explain why coffee is the best drink ever
 ```
+
+Are you sure that is the best drink ever? The model never said this, you are inducing this opinion.
