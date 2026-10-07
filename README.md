@@ -75,8 +75,3 @@ Teacher said that im ChatGPT, as example, we have options as memory and personal
 ![example 1 of a good prompt](images/example-1-of-a-good-prompt.png)
 
 ![example 2 of a good prompt](images/example-2-of-a-good-prompt.png)
-
-
-# Current progress
-
-[class](https://web.dio.me/track/microsoft-50-anos-prompts-inteligentes/course/introducao-a-engenharia-de-prompts/learning/0c1ae6f3-89cb-48cf-83b2-5ac0d9f0cf89?autoplay=1) - 07:04
