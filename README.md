@@ -91,3 +91,8 @@ Please explain why coffee is the best drink ever
 ```
 
 Are you sure that is the best drink ever? The model never said this, you are inducing this opinion.
+
+
+# Shot learning
+
+- **Zero shot learning**: when we do not provide an answer example with the question to the model;
