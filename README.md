@@ -96,3 +96,4 @@ Are you sure that is the best drink ever? The model never said this, you are ind
 # Shot learning
 
 - **Zero shot learning**: when we do not provide an answer example with the question to the model;
+- **One shot learning**: when we provide one answer example with the question to the model; 
