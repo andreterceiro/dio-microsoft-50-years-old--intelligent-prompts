@@ -125,3 +125,7 @@ I didn't documented these topics passed by the teacher:
 
 - Indications;
 - Support content.
+
+*Why you did not documentate? Are you crazy? Are you kidding me?*
+
+No, is beacuse I did not understand exactly the topic.
