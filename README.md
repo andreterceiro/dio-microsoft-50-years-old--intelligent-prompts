@@ -106,4 +106,9 @@ Are you sure that is the best drink ever? The model never said this, you are ind
 
 Example:
 
-![teacher example of context](images/teacher-example-of-contexxt.png)
+![teacher example of context](images/teacher-example-of-context.png)
+
+
+# Restriction or limitations
+
+![restrictions or limitations](images/restrictions-or-limitations.png)
