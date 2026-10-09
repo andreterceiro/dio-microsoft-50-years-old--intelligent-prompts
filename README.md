@@ -131,3 +131,5 @@ I didn't documented these topics passed by the teacher:
 No, is beacuse I did not understand exactly the topic. See this example:
 
 ![difficult to understand some topics](images/difficult-to-understand-some-topics.png)
+
+See in the image the word "context". We already have a topic about context. I did not understand this new category (or group) "Support content".
