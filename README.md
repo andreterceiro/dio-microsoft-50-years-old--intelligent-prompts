@@ -103,3 +103,7 @@ Are you sure that is the best drink ever? The model never said this, you are ind
 # Context or configuration
 
 ![context or configuration](images/context-or-configuration.png)
+
+Example:
+
+![teacher example of context](images/teacher-example-of-contexxt.png)
