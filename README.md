@@ -128,4 +128,6 @@ I didn't documented these topics passed by the teacher:
 
 *Why you did not documentate? Are you crazy? Are you kidding me?*
 
-No, is beacuse I did not understand exactly the topic.
+No, is beacuse I did not understand exactly the topic. See this example:
+
+![difficult to understand some topics](images/difficult-to-understand-some-topics.png)
