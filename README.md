@@ -117,3 +117,11 @@ Example:
 # Output format
 
 It can be a pdf file or JSON as example. Teacher gave a more wide explanation, but I think that her explanation mixes concepts of restrictions or limitations as example.
+
+
+# Difficult to undersdand some topics
+
+I didn't documented these topics passed by the teacher:
+
+- Indications;
+- Support content.
