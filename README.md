@@ -112,3 +112,8 @@ Example:
 # Restriction or limitations
 
 ![restrictions or limitations](images/restrictions-or-limitations.png)
+
+
+# Output format
+
+It can be a pdf file or JSON as example.
