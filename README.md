@@ -116,4 +116,4 @@ Example:
 
 # Output format
 
-It can be a pdf file or JSON as example.
+It can be a pdf file or JSON as example. Teacher gave a more wide explanation, but I think that her explanation mixes concepts of restrictions or limitations as example.
