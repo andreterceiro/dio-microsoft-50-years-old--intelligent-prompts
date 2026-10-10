@@ -138,3 +138,4 @@ See in the image the word "context". We already have a topic about context. I di
 # Random tecniques passed by the teacher
 
 - Clear instructions;
+- Repeat the instruction in the end.
