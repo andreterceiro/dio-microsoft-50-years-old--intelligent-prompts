@@ -135,7 +135,12 @@ No, is beacuse I did not understand exactly the topic. See this example:
 See in the image the word "context". We already have a topic about context. I did not understand this new category (or group) "Support content". I already write prompts (good prompts, I hope kkk) intuitively, is hard to me to understand some thing of the explanation.
 
 
-# Random tecniques passed by the teacher
+# Random techniques passed by the teacher
 
 - Clear instructions;
 - Repeat the instruction in the end.
+
+
+# Guardrails
+
+Technique that limits the answer of the model, that will follow some passed rules. Teacher passed an exemple that when she asked a model to create an image of an anime, but the model aswered that can't generate the image because some copyright rules. The model had in the teacher example some guardrails limiting its actuation. 
