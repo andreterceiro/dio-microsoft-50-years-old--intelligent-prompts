@@ -155,4 +155,4 @@ Teacher talked about a technique named "to prepare the output", that was instruc
 
 # Chain-of-thought prompt ("solicita&ccedil;&atilde;o de cadeia de pensamento" in portuguese)
 
-Teacher explained that this technique is related to ask the model to explain it tough to structure its answer.
+Teacher explained that this technique is related to ask the model to explain it tough to structure its answer. You can ask the model to provide details of each step as example.
