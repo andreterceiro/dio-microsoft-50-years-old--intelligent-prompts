@@ -177,3 +177,5 @@ Example:
 To be very honest this topic is not clear. Example showed by the teacher:
 
 ![clear syntax](images/clear-syntax.png)
+
+Why didn't I understand? Well, because as you see in the previous image, to me teacher applied other technique in the image example, she specified the structure of the output. 
