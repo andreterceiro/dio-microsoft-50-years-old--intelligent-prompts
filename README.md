@@ -170,3 +170,8 @@ In this technique teacher explained that we can specify as example that the mode
 Example:
 
 ![to split the task - example](images/to-split-the-task--example.png)
+
+
+# Adding clear syntax
+
+To be very honest this topic is not clear.
