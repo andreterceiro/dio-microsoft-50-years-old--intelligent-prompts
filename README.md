@@ -174,4 +174,6 @@ Example:
 
 # Adding clear syntax
 
-To be very honest this topic is not clear.
+To be very honest this topic is not clear. Example showed by the teacher:
+
+![clear syntax](images/clear-syntax.png)
