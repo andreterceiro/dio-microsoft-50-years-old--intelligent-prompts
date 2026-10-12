@@ -148,4 +148,6 @@ Technique that limits the answer of the model, that will follow some passed rule
 
 # Preparing the output
 
-Teacher talked about a technique named "to prepare the output", that was instruct the model with the topics that the answer needs to have.
+Teacher talked about a technique named "to prepare the output", that was instruct the model with the topics that the answer needs to have:
+
+![instructions to structure the output](images/instructions-to-structure-the-output.png)
