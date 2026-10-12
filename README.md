@@ -183,4 +183,11 @@ To be very honest this topic is not clear. Example showed by the teacher:
 
 ![clear syntax](images/clear-syntax.png)
 
-Why didn't I understand? Well, because as you see in the previous image, to me teacher applied other technique in the image example, she specified the structure of the output. 
+Why didn't I understand? Well, because as you see in the previous image, to me teacher applied other technique in the image example, she specified the structure of the output.
+
+
+# Interesting teacher comment about image generation
+
+Teacher said that in the paid version of ChatGPT they provide a tool to select a part of a generated image to help us to specify adjusts that we need, as example in teh next image we can select the moon and we can pass details of a hole that the moon in the generated image must have.
+
+![image gernerated example](images/image-generated-example.png)
