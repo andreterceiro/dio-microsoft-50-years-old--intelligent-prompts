@@ -143,4 +143,9 @@ See in the image the word "context". We already have a topic about context. I di
 
 # Guardrails
 
-Technique that limits the answer of the model, that will follow some passed rules. Teacher passed an exemple that when she asked a model to create an image of an anime, but the model aswered that can't generate the image because some copyright rules. The model had in the teacher example some guardrails limiting its actuation. 
+Technique that limits the answer of the model, that will follow some passed rules. Teacher passed an exemple that when she asked a model to create an image of an anime, but the model aswered that can't generate the image because some copyright rules. The model had in the teacher example some guardrails limiting its actuation.
+
+
+# Preparing the output
+
+Teacher talked about a technique named "to prepare the output", that was instruct the model with the topics that the answer needs to have.
