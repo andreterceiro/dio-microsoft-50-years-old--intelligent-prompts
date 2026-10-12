@@ -166,3 +166,7 @@ In the technique **"Preparing the output"** teacher explained that you can instr
 # To split the task
 
 In this technique teacher explained that we can specify as example that the model must solve each step before passing to the next step.
+
+Example:
+
+![to split the task - example](images/to-split-the-task--example.png)
