@@ -161,3 +161,8 @@ Teacher explained that this technique is related to ask the model to explain it 
 # Specifying the structure of the output
 
 In the technique **"Preparing the output"** teacher explained that you can instructe the model **what** topics the answer needs to have. This time, related to **"structure the output"**, she explained that you can say to the model that the output must have topics without specifying the topics. Also, using this technique you can say to the model that the output must be provided as markdown or other format, as example.
+
+
+# To split the task
+
+In this technique teacher explained that we can specify as example that the model must solve each step before passing to the next step.
