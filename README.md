@@ -150,7 +150,7 @@ Technique that limits the answer of the model, that will follow some passed rule
 
 Teacher talked about a technique named "to prepare the output", that was instruct the model with the topics that the answer needs to have:
 
-![instructions to structure the output](images/instructions-to-structure-the-output.png)
+![instructions to structure the output](images/preparing-the-output.png)
 
 
 # Chain-of-thought prompt ("solicita&ccedil;&atilde;o de cadeia de pensamento" in portuguese)
