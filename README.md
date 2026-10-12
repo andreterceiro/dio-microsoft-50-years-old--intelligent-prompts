@@ -191,3 +191,8 @@ Why didn't I understand? Well, because as you see in the previous image, to me t
 Teacher said that in the paid version of ChatGPT they provide a tool to select a part of a generated image to help us to specify adjusts that we need, as example in teh next image we can select the moon and we can pass details of a hole that the moon in the generated image must have.
 
 ![image gernerated example](images/image-generated-example.png)
+
+
+# Presentation related to the classes
+
+[link](https://www.canva.com/design/DAGYbpmAiQA/NH0YSZ6tAbdBjNgKJsnFIw/edit)
