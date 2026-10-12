@@ -156,3 +156,8 @@ Teacher talked about a technique named "to prepare the output", that was instruc
 # Chain-of-thought prompt ("solicita&ccedil;&atilde;o de cadeia de pensamento" in portuguese)
 
 Teacher explained that this technique is related to ask the model to explain it tough to structure its answer. You can ask the model to provide details of each step as example.
+
+
+# Specifying the structure of the output
+
+In the technique **"Preparing the output"** teacher explained that you can instructe the model **what** topics the answer needs to have. This time, related to **"structure the output"**, she explained that you can say to the model that the output must have topics without specifying the topics. Also, using this technique you can say to the model that the output must be provided as markdown or other format, as example.
