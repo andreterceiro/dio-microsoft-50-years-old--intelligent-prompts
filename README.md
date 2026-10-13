@@ -201,3 +201,10 @@ Teacher said that in the paid version of ChatGPT they provide a tool to select a
 # Talking to Github Copilot through a chat in VSCode
 
 First, please install the extension **"GitHub Copilot Chat"**. After, please press the keyboard keys **"Ctrl+Alt+I"**. **OBS:** I do not remember when I subscribed to the service, but some documentations says that you need a paid subscription. But, well, the chat worked in the company VSCode...
+
+
+# Asking help to Github Copilot to generate an API with Node.JS
+
+Prompt:
+
+![asking help to Github Copilot generate an API with Node.JS](images/asking-help-to-github-copilot-generate-an-API-with-Node.JS.png)
