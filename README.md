@@ -196,3 +196,8 @@ Teacher said that in the paid version of ChatGPT they provide a tool to select a
 # Presentation related to the classes
 
 [link](https://www.canva.com/design/DAGYbpmAiQA/NH0YSZ6tAbdBjNgKJsnFIw/edit)
+
+
+# Talking to Github Copilot through a chat in VSCode
+
+First, please install the extension **"GitHub Copilot Chat"**.
