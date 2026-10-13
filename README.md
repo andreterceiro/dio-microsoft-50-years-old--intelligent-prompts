@@ -224,3 +224,4 @@ Please press **Ctrl+I** then you will see an area to submit your help request.
 # General process on the teacher test project
 
 - The general process was ask the API to manage products with Node.JS creation;
+- Teacher also asked the Github Copilot through the chat to instruct her to install and test the API with Insomnia;
