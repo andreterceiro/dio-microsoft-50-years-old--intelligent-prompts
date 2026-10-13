@@ -208,3 +208,7 @@ First, please install the extension **"GitHub Copilot Chat"**. After, please pre
 Prompt:
 
 ![asking help to Github Copilot generate an API with Node.JS](images/asking-help-to-github-copilot-generate-an-API-with-Node.JS.png)
+
+Process:
+
+![Github Copilot Node.JS API generation - process](images/github-copilot-Node.JS-API-generation--process.png)
