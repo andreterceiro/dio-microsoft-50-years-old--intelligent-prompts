@@ -225,3 +225,4 @@ Please press **Ctrl+I** then you will see an area to submit your help request.
 
 - The general process was ask the API to manage products with Node.JS creation;
 - Teacher also asked the Github Copilot through the chat to instruct her to install and test the API with Insomnia;
+- Teacher had to create the files, but got the source code from the Github Copilot answer;
