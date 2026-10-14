@@ -241,3 +241,8 @@ And GIthub Copilot didn't generate the answer in the chat. It generated the docu
 # Repository related to the classes of the course "Writing effective prompts"
 
 [link](https://github.com/alinealien/boas-praticas-para-IAs)
+
+
+# Courses indicated by the teacher in the DIO platform
+
+- AI 102 formation (Microsoft);
