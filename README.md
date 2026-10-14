@@ -246,3 +246,4 @@ And GIthub Copilot didn't generate the answer in the chat. It generated the docu
 # Courses indicated by the teacher in the DIO platform
 
 - AI 102 formation (Microsoft);
+- Bootcamp Github Copilot.
