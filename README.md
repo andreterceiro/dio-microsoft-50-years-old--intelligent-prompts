@@ -236,3 +236,8 @@ Teacher created a README.md file and inside the file pressed the combination of 
 ![asking Google Copilot to generate a documentation](images/asking-Google-Copilot-to-generate-a-documentation.png)
 
 And GIthub Copilot didn't generate the answer in the chat. It generated the documentation directly in the file.
+
+
+# Repository related to the classes of the course "Writing effective prompts"
+
+[link](https://github.com/alinealien/boas-praticas-para-IAs)
