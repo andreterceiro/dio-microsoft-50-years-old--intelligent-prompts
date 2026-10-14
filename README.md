@@ -234,3 +234,5 @@ Please press **Ctrl+I** then you will see an area to submit your help request.
 Teacher created a README.md file and inside the file pressed the combination of keys &lt;CTRL+i&gt; to open the **"Ask Copilot** dialog box and there she asked Google Copilot to generate a documentation:
 
 ![asking Google Copilot to generate a documentation](images/asking-Google-Copilot-to-generate-a-documentation.png)
+
+And GIthub Copilot didn't generate the answer in the chat. It generated the documentation directly in the file.
