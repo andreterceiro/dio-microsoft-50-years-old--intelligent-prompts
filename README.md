@@ -247,3 +247,10 @@ And GIthub Copilot didn't generate the answer in the chat. It generated the docu
 
 - AI 102 formation (Microsoft);
 - Bootcamp Github Copilot.
+
+
+# "Construindo Soluções Inteligentes com IA e Azure Cloud" lecture
+
+Azure AI services:
+
+![azure AI services](images/azure-ai-services.png)
