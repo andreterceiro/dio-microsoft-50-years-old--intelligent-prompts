@@ -254,3 +254,7 @@ And GIthub Copilot didn't generate the answer in the chat. It generated the docu
 Azure AI services:
 
 ![azure AI services](images/azure-ai-services.png)
+
+Azure Foundry:
+
+![Azure Foundry](images/azure-foundry.png)
