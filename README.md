@@ -286,4 +286,5 @@ See in the image that there is a "Data and AI" area:
 **OBS:** teacher said that "-900" certifications:
 - like "AZ-900" or "AI-900";
 - has no expiration date;
-- are introdutory certifications.
+- are introdutory certifications;
+- has no laboratories;
