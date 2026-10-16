@@ -255,6 +255,8 @@ Azure AI services:
 
 ![azure AI services](images/azure-ai-services.png)
 
+In this portal Microsoft consolidates several projects related to AI, as example services, related to images, bot services, AI search and others.
+
 Azure Foundry:
 
 ![Azure Foundry](images/azure-foundry.png)
