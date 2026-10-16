@@ -267,6 +267,8 @@ Azure Foundry portal - hub of Azure AI services:
 
 The presenter said that is important to remove greets to prompts to be passed to chatbots, because these words are unnecessary to solve the doubth and will be processed.
 
+Teacher said that is important that more that one person has access to a resource, to avoid problems like demission of this person.
+
 
 ## Cloud services - RBAC
 
