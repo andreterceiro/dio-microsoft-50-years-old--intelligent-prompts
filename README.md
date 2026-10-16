@@ -275,3 +275,10 @@ Teacher said that is important that more that one person has access to a resourc
 ![cloud services - RBAC](images/cloud-services--rbac.png)
 
 ![cloud services - RBAC - 2](images/cloud-services--rbac-2.png)
+
+
+## Microsoft certifications
+
+See in the image that there is a "Data and AI" area:
+
+![Microsoft certifications](images/microsoft-certifications.png)
