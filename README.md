@@ -282,3 +282,8 @@ Teacher said that is important that more that one person has access to a resourc
 See in the image that there is a "Data and AI" area:
 
 ![Microsoft certifications](images/microsoft-certifications.png)
+
+**OBS:** teacher said that "-900" certifications:
+- like "AZ-900" or "AI-900";
+- has no expiration date;
+- are introdutory certifications.
