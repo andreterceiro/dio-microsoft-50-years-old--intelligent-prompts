@@ -273,3 +273,5 @@ Teacher said that is important that more that one person has access to a resourc
 ## Cloud services - RBAC
 
 ![cloud services - RBAC](images/cloud-services--rbac.png)
+
+![cloud services - RBAC - 2](images/cloud-services--rbac-2.png)
