@@ -287,4 +287,6 @@ See in the image that there is a "Data and AI" area:
 - like "AZ-900" or "AI-900";
 - has no expiration date;
 - are introdutory certifications;
-- has no laboratories;
+- has no laboratories.
+
+Related to some other certifications, teacher said that they are valid for 1 year, but **when renewing the certification** you can take the test from home, without a surveillance of a people or machine monitor, searching for information during the test on Internet.
