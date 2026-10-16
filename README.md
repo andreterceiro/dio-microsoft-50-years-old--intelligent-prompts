@@ -261,3 +261,4 @@ Azure Foundry:
 
 ![Azure Foundry](images/azure-foundry.png)
 
+The presenter said that is important to remove greets to prompts to be passed to chatbots, because these words are unnecessary to solve the doubth and will be processed
