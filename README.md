@@ -310,3 +310,8 @@ Another important thing that teacher said that **if you have a big skill (or a c
 # Azure service that detects informations in documents
 
 Teacher showed an interesting Azure Service: in this service AI recognized blocks of informations in a document and after you need to specify which of these informations are usable.
+
+
+# Azure AI - concepts related to security
+
+![Azure AI - concepts related to security](imabes/azure-ai-concepts-related-to-security.png)
