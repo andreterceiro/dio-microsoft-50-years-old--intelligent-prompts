@@ -305,3 +305,8 @@ Another important thing that teacher said that **if you have a big skill (or a c
 # Face detection in photos - interesting Azure service
 
 ![face detection in Photos - interesting Azure service](images/face-detection-in-photos--azure-service.png)
+
+
+# Azure service that detects informations in documents
+
+Teacher showed an interesting Azure Service: in this service AI recognized blocks of informations in a document and after you need to specify which of these informations are usable.
