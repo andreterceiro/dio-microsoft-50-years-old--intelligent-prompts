@@ -296,3 +296,5 @@ Teacher explained that **you have to renew a Microsoft certification before the 
 [The Microsoft Credentials website](https://learn.microsoft.com/en-us/credentials/) seems **very** interesting.
 
 ![Microsoft Credentials website](images/microsoft-credentials-website.png)
+
+Another thing that teacher explained in that eventually a company needs a professional with a certification to meet some criterias, like to the company needs a number of professionals with a specific certification (like AZ-900) to become a Microsoft partner in some area.
