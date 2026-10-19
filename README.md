@@ -291,4 +291,4 @@ See in the image that there is a "Data and AI" area:
 
 Related to some other certifications, teacher said that they are valid for 1 year, but **when renewing the certification** you can take the test from home, without a surveillance of a people or machine monitor, searching for information during the test on Internet.
 
-
+Teacher explained that **you have to renew a Microsoft certification before the epiration date**. Without renewing you will loose all benefits as can read documents during the test and take the test from your home.
