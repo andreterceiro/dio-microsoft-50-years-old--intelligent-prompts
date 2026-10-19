@@ -295,3 +295,4 @@ Teacher explained that **you have to renew a Microsoft certification before the 
 
 [The Microsoft Credentials website](https://learn.microsoft.com/en-us/credentials/) seems **very** interesting.
 
+![Microsoft Credentials website](images/microsoft-credentials-website.png)
