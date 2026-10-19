@@ -298,3 +298,5 @@ Teacher explained that **you have to renew a Microsoft certification before the 
 ![Microsoft Credentials website](images/microsoft-credentials-website.png)
 
 Another thing that teacher explained in that eventually a company needs a professional with a certification to meet some criterias, like to the company needs a number of professionals with a specific certification (like AZ-900) to become a Microsoft partner in some area.
+
+Another important thing that teacher said that **if you have a big skill (or a certification), you have to aim the right companies to achieve a job offer**. 
