@@ -320,3 +320,8 @@ Teacher showed an interesting Azure Service: in this service AI recognized block
 # Some model characteristics - model catalog
 
 ![some model characteristics - model catalog](images/some-model-characteristics--model-catalog.png)
+
+
+# Current progress
+
+[class](https://web.dio.me/lives/construindo-solucoes-inteligentes-com-ia-e-azure-cloud?back=/track/91c7e809-e1c5-4958-99e1-7e08cf531a6a) - 09:34
