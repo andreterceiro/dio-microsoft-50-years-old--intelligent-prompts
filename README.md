@@ -315,3 +315,8 @@ Teacher showed an interesting Azure Service: in this service AI recognized block
 # Azure AI - concepts related to security
 
 ![Azure AI - concepts related to security](imabes/azure-ai-concepts-related-to-security.png)
+
+
+# Some model characteristics - model catalog
+
+![some model characteristics - model catalog](images/some-model-characteristics--model-catalog.png)
