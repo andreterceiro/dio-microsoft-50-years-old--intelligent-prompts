@@ -331,3 +331,8 @@ Teacher talked about "an important laboratory":
 The URL in the image is not too easy to read. Also, I didn't find an URL with "5" (that I saw in teacher's browser URL) in [this link](https://microsoftlearning.github.io/mslearn-ai-studio/) based in teacher's browser URL.
 
 Also, teacher asked the watchers to try the lab after her presentation, because the lab, in her point of view, is "a little boring", because takes approximately 60 minutes to load.
+
+
+# A simple chatbot
+
+Teacher demonstrated a simple chatbot that already can interact with the requester.
