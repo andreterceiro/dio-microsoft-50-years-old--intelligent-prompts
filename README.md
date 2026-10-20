@@ -342,3 +342,8 @@ Teacher demonstrated a simple chatbot that already can interact with the request
 Teacher also demonstrated that the simple chatbot provides several adjusts to be done:
 
 ![simple chatbot - several adjusts to be done](images/simple-chatbot--several-adjusts-to-be-done.png)
+
+
+# Current progress
+
+[Class](https://web.dio.me/lives/construindo-solucoes-inteligentes-com-ia-e-azure-cloud?back=/track/91c7e809-e1c5-4958-99e1-7e08cf531a6a) - 01:45:00
