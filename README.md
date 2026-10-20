@@ -320,3 +320,10 @@ Teacher showed an interesting Azure Service: in this service AI recognized block
 # Some model characteristics - model catalog
 
 ![some model characteristics - model catalog](images/some-model-characteristics--model-catalog.png)
+
+
+# Important laboratory
+
+Teacher talked about "an important laboratory":
+
+![important laboratory](images/important-laboratory.png)
