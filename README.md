@@ -328,4 +328,4 @@ Teacher talked about "an important laboratory":
 
 ![important laboratory](images/important-laboratory.png)
 
-The URL in the image is not too easy to read.
+The URL in the image is not too easy to read. Also, I didn't find an URL with "5" (that I saw in teacher's browser URL) in [this link](https://microsoftlearning.github.io/mslearn-ai-studio/) based in teacher's browser URL.
