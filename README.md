@@ -336,3 +336,5 @@ Also, teacher asked the watchers to try the lab after her presentation, because 
 # A simple chatbot
 
 Teacher demonstrated a simple chatbot that already can interact with the requester.
+
+![very simple trainning - chatbot already can answer](images/very-simple-trainning--chatbot-already-can-answer.png)
