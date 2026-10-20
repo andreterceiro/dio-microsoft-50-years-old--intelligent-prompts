@@ -327,3 +327,5 @@ Teacher showed an interesting Azure Service: in this service AI recognized block
 Teacher talked about "an important laboratory":
 
 ![important laboratory](images/important-laboratory.png)
+
+The URL in the image is not too easy to read.
