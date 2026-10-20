@@ -338,3 +338,7 @@ Also, teacher asked the watchers to try the lab after her presentation, because 
 Teacher demonstrated a simple chatbot that already can interact with the requester.
 
 ![very simple trainning - chatbot already can answer](images/very-simple-trainning--chatbot-already-can-answer.png)
+
+Teacher also demonstrated that the simple chatbot provides several adjusts to be done:
+
+![simple chatbot - several adjusts to be done](images/simple-chatbot--several-adjusts-to-be-done.png)
