@@ -342,3 +342,8 @@ Teacher demonstrated a simple chatbot that already can interact with the request
 Teacher also demonstrated that the simple chatbot provides several adjusts to be done:
 
 ![simple chatbot - several adjusts to be done](images/simple-chatbot--several-adjusts-to-be-done.png)
+
+
+# Important step in AI projects
+
+The teacher said that is **important to test the solutions in AI projects before run in production to do not have bad surprises related to prices when implementing the final solution**
